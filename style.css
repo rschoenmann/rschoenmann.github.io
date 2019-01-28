@@ -3,6 +3,5 @@
 }
 
 body {
-  font: 16px Palatino Linotype;
-  background: url(noise.png);
+  font-family: Palatino, 'Palatino Linotype', serif;
 }
