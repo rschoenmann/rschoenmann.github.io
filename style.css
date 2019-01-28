@@ -21,13 +21,8 @@ h3 {
 
 #container {
 	margin-top: 20px;
-	margin-left: 200px;
-	margin-right: 200px;
-
-	padding: 10px 150px 10px 150px;
-
-	border-radius: 15px;
-	background-color: #C4CECD;
-
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 10px 15px 10px 15px;
 	text-align: left;
 }
