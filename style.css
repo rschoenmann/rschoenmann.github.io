@@ -29,8 +29,8 @@ h3 {
 }
 
 h4 {
-	font-style: italic;
 	font-family: Palatino, 'Palatino Linotype', serif;
+	border: 5px solid #FFF;
 }
 
 #container {
